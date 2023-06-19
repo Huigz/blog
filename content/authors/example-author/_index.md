@@ -1,10 +1,10 @@
 ---
-title: Example Author
-role: Example Role
+title: Jm Su
+role: Student
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
-  name: Example Organization
+  name: SKKU
   url: https://example.com/
 social:
   - icon: envelope
