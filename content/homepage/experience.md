@@ -2,29 +2,34 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Master's degree candidate
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: SKKU Sociology
+      url: https://www.skku.edu
+    dates: "2023 - Present"
+    location: Seoul
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+      
+      - 📊 Sociology Statistical Methodology
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
+      - 📄 Sociology Theories
 
-      - Aenean tincidunt enim vitae ante blandit tempor.
+      - 💻 Social NetWork Analysis
 
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-
-  - title: Example Role 2
+  - title: Undergraduate Student
     organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
+      name: SKKU Sociology ｜ SKKU Software
+      url: https://www.skku.edu
+    dates: "2018 - 2022"
+    location: Seoul
     writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      
+      - 📱 Programming
+        - HTML/CSS
+        - Python
+        - Machine Learning
+      - ✍🏼 Sociology
+        - Social Research Methodology
 
 weight: 3
 widget:

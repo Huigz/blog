@@ -1,23 +1,17 @@
 ---
-title: Example Author
+title: Jm Su
 draft: false
-role: Example Role
-avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+role: Master's degree candidate
+avatar: imgs/logo.png
+bio:  "[Hi, I'm Jmsu. A student of Sociology at SKKU](/authors/jmsu) "
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: SKKU Sociology 
+  url: https://www.skku.edu/
 social:
   - icon: envelope
     iconPack: fas
     url: mailto:example@example.com
-  - icon: twitter
-    iconPack: fab
-    url: https://example.com/
-  - icon: github
-    iconPack: fab
-    url: https://example.com/
-
+draft: true
 weight: 1
 widget:
   handler: about
@@ -41,6 +35,8 @@ widget:
     position:
     # Options: fixed, local, scroll.
     attachment: 
+
+  
 ---
 
 ## Self Introduction

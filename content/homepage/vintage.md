@@ -1,9 +1,9 @@
 ---
 title: Vintage
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: Life is Just for Fun and Love
+imgLeft: /imgs/bg1.jpeg #images/hero-left.jpg
+imgRight: /imgs/bg2.jpeg #images/hero-right.jpg
 
 weight: 4
 widget:
