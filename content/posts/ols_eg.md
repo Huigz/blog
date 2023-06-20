@@ -13,7 +13,7 @@ categories:
 series:
 date: 2023-06-19T00:06:11+09:00
 lastmod: 2023-06-19T00:06:11+09:00
-draft: false
+draft: true
 ---
 
 
