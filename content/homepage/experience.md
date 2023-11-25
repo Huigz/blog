@@ -25,11 +25,15 @@ experiences:
     writeup: >
       
       - 📱 Programming
-        - HTML/CSS
-        - Python
-        - Machine Learning
+        - Tailwind CSS
+        - Python Django
+      - 🧑🏻‍💻 AZURE
+        - WEB APP
+        - DATABASE
+        - BLOB ...
       - ✍🏼 Sociology
         - Social Research Methodology
+        - TOPIK 6
 
 weight: 3
 widget:

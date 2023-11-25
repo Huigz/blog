@@ -1,7 +1,7 @@
 ---
 title: Jm Su
 role: Post graduate
-avatar: images/icon.png
+avatar: imgs/logo.png
 bio: Life is Just for Fun and Love
 organization:
   name: SKKU
@@ -32,11 +32,12 @@ SKKU Sociology master's degree candidate
 
 - Python Data Analysis
 - Flask
+- Django
 - HTML taliwindCSS
 - Echart
 - SPSS Syntax
-
-
+- AZURE WEB/ DataBase 
+- TOPIK 6 한국어능력시험
 
 **Interested in:**
 
