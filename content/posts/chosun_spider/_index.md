@@ -51,6 +51,7 @@ https://www.chosun.com/nsearch/?query=%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98&page=
 ## Python requests包构建API请求
 
 ```python
+
 def chosun_get_page_list():
     
     API_URL = 'https://www.chosun.com/pf/api/v3/content/fetch/search-param-api'
@@ -84,5 +85,27 @@ def chosun_get_page_list():
 
 利用for循环直到最后一页，每次循环返回当前页的10篇文章列表，此部分由Python生成器功能实现，好处是动态计算并且在使用notebook运行时可以使用tqdm监控爬虫过程。
 
+```python
+
+PageListDF = pd.DataFrame(columns=['title', 'category', 'article_url', 'date', 'author'])
+
+for content in tqdm(chosun_get_page_list()):
+    for i in content:
+        content_dict = dict()
+        content_dict['title'] = i.get('title')
+        content_dict['category'] = i.get('category_path')
+        content_dict['article_url'] = i.get('site_url')
+        content_dict['date'] = i.get('regdate')
+        content_dict['author'] = i.get('credits').get('by')[0].get('name')
+
+        PageListDF = pd.concat([PageListDF,pd.DataFrame([content_dict])], ignore_index=True)
+
+```
+
+建立一个pandas DataFrame用于储存爬取到的文章内容，其中包含了文章标题，类别 ，文章URL，发布日期，作者 列，每次循环执行一遍爬虫生成器内容，返回页面文章列表，将文章列表内容提取，并储存在临时的文章信息content_dict里，并在每次结束一次爬虫请求时将整个页面所有文章信息和并到PagelistDF里。
+
+## Result 运行结果
+
+![alt text](image-3.png)
 
 
