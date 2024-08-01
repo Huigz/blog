@@ -2,10 +2,7 @@
 title: "收入影响对社会的信任？ Simple Linear Regression"
 description: 用单变量线性回归对KGSS 2021年的调查数据中 收入 与 社会信任 两个变量间的线性关系进行分析
 toc: true
-<<<<<<< HEAD
 featuredImage: imgs/plot_ols1.png
-=======
->>>>>>> cddd828eb26eb5d6c4f51c0e7d74704c5ca39861
 authors:
   - jmsu
 tags:
@@ -21,11 +18,6 @@ draft: true
 ---
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> cddd828eb26eb5d6c4f51c0e7d74704c5ca39861
 本文对KGSS 2021年的调查数据中的 `RINCOM0`收入变量 和`RELIABLE`社会信任变量 间的线性关系进行统计检验
 
 
