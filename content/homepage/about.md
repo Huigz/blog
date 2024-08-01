@@ -1,7 +1,11 @@
 ---
 title: Jm Su
 draft: false
+<<<<<<< HEAD
 role: 사회학 석사과정
+=======
+role: Master's degree candidate
+>>>>>>> cddd828eb26eb5d6c4f51c0e7d74704c5ca39861
 avatar: imgs/logo.png
 bio:  "[Hi, I'm Jmsu. A student of Sociology at SKKU](/authors/jmsu) "
 organization:
@@ -10,7 +14,11 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
+<<<<<<< HEAD
     url: jmsu@g.skku.edu
+=======
+    url: mailto:example@example.com
+>>>>>>> cddd828eb26eb5d6c4f51c0e7d74704c5ca39861
 draft: true
 weight: 1
 widget:
