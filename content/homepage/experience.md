@@ -10,13 +10,9 @@ experiences:
     location: Seoul
     writeup: >
       
-<<<<<<< HEAD
       - 🕷️ Data Crawling
       
       - 🤖 Topic Model
-=======
-      - 📊 Sociology Statistical Methodology
->>>>>>> cddd828eb26eb5d6c4f51c0e7d74704c5ca39861
 
       - 📄 Sociology Theories
 
