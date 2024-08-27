@@ -1,6 +1,6 @@
 ---
 title: Jm Su
-role: "사회학 석사과정"
+role: "사회학 석사과정 & [TA](https://labskku.netlify.app)"
 avatar: imgs/logo.png
 bio: Life is Just for Fun and Love
 organization:
@@ -48,6 +48,8 @@ SKKU Sociology master's degree candidate
 - Social Network Analysis
 - Exchange Theory
 
+
+
 ### About Jinqu 🙇‍♀
 
 ```
@@ -62,5 +64,9 @@ KMU Fashion Design Student
 #### Skills:
 
 ✂️📍📏📐👚👕👖👔👗
+
+#### Portfolio:
+
+![](portfolio.jpeg)
 
 

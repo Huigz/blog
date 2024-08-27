@@ -1,7 +1,7 @@
 ---
 title: Jm Su
 draft: false
-role: 사회학 석사과정
+role: "사회학 석사과정 & [TA](https://labskku.netlify.app)"
 avatar: imgs/logo.png
 bio:  "[Hi, I'm Jmsu. A student of Sociology at SKKU](/authors/jmsu) "
 organization:
