@@ -12,9 +12,8 @@ social:
     url: mailto:huigz512@gmail.com
 ---
 
-## 제 일정
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSeoul&bgcolor=%23ffffff&showDate=0&showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&src=am1zdUBnLnNra3UuZWR1&color=%23039BE5" style="border-width:0" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-9b79d78f-831d-4003-9a6a-ac9bfa70ecde" data-elfsight-app-lazy></div>
 
 ## Self Introduction
 
