@@ -1,6 +1,6 @@
 ---
 title: Jm Su
-role: "사회학 석사과정 & [TA](https://labskku.netlify.app)"
+role: "사회학 석사과정 & [TA](https://somclab.netlify.app)"
 avatar: imgs/logo.png
 bio: Life is Just for Fun and Love
 organization:
@@ -11,9 +11,6 @@ social:
     iconPack: fas
     url: mailto:huigz512@gmail.com
 ---
-
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-9b79d78f-831d-4003-9a6a-ac9bfa70ecde" data-elfsight-app-lazy></div>
 
 ## Self Introduction
 

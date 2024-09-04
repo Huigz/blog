@@ -1,7 +1,10 @@
 main:
+  - name: Calendar
+    url: '/calendar'
+    weight: 1
   - name: About
     url: '/authors/jmsu'
-    weight: 1
+    weight: 2
   - name: Posts
     url: /posts/
-    weight: 2
+    weight: 3
