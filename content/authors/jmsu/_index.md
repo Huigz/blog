@@ -1,6 +1,6 @@
 ---
 title: Jm Su
-role: "사회학 석사과정 & [TA](https://somclab.netlify.app)"
+role: "사회학 석사과정 & [RA](https://somclab.netlify.app)"
 avatar: imgs/logo.png
 bio: Life is Just for Fun and Love
 organization:
