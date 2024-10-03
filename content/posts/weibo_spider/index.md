@@ -37,6 +37,8 @@ id和mid全都指 m_post_id，max_id_type默认为0
 
 初始请求并不需要Cookie用户登陆，但是大体量爬虫情况下推荐在此处也使用Cookie登陆，否则将会跳转很多次302到用户验证，大幅度降低爬虫速度。
 
+*另外，对于Cookie，请务必使用m.weibo.cn的Cookie信息，而不是weibo.com等其他不同端口的Cookie，如果选用了其他端口的Cookie，每次请求数据时，将自动302跳转至微博登录验证后跳转回请求API，返回结果，这样虽然依旧可以获取到数据，但大大降低了爬虫的速度和耗费了许多其他不必要的资源。
+
 Response结果如下：
 
 ![alt text](image.png)
