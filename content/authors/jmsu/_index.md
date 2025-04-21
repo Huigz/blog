@@ -1,7 +1,7 @@
 ---
 title: Jm Su
 role: "사회학 석사과정 & [RA](https://somclab.netlify.app)"
-avatar: imgs/logo.png
+avatar: imgs/logo_emoji.png
 bio: Life is Just for Fun and Love
 organization:
   name: SKKU
@@ -9,7 +9,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:huigz512@gmail.com
+    url: mailto:jmsu@g.skku.edu
 ---
 
 ## Self Introduction

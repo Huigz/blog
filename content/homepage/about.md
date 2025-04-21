@@ -2,7 +2,7 @@
 title: Jm Su
 draft: false
 role: "사회학 석사과정 & [RA](https://somclab.netlify.app)"
-avatar: imgs/logo.png
+avatar: imgs/logo_emoji.png
 bio:  "[Hi, I'm Jmsu. A student of Sociology at SKKU](/authors/jmsu) "
 organization:
   name: SKKU Sociology 
@@ -10,7 +10,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: jmsu@g.skku.edu
+    url: mailto:jmsu@g.skku.edu
 draft: true
 weight: 1
 widget:

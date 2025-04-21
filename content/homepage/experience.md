@@ -2,21 +2,26 @@
 title: Experience
 draft: false
 experiences:
-  - title: Master's degree candidate
+  - title: Master
     organization:
       name: SKKU Sociology
       url: https://www.skku.edu
-    dates: "2023 - Present"
+    dates: "2023 - 2025"
     location: Seoul
     writeup: >
       
       - 🕷️ Data Crawling
+        - Scrapy
       
       - 🤖 Topic Model
+        - LDA
+        - Bertopic
 
       - 📄 Sociology Theories
+        - Social Exchange Theory
 
       - 💻 Social NetWork Analysis
+      
 
   - title: Undergraduate Student
     organization:
